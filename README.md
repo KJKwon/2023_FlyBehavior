@@ -4,5 +4,3 @@ In this repository,
   - Calculate centroid of each DGRP flies
   - Walking distance in whole experiment times
 
-### Centroid analysis
-
